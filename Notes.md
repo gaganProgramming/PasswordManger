@@ -1,0 +1,32 @@
+All dependencies used in the **PassOp** project with documentation links, installation commands, and additional essentials that might help improve the project's functionality and reliability. 
+
+| **Dependency**            | **Description**                                                                                             | **Documentation Link**                                              | **Installation Command**                              |
+|---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------|
+| **Frontend**              |                                                                                                             |                                                                     |                                                      |
+| React (via Vite)          | JavaScript library for building user interfaces.                                                           | [React](https://reactjs.org/docs/getting-started.html)              | `npm create vite@latest` (then select React)         |
+| Vite                      | Frontend build tool that focuses on speed and optimized development experience.                            | [Vite](https://vitejs.dev/guide/)                                   | Installed automatically with `vite` scaffold         |
+| Tailwind CSS              | Utility-first CSS framework for designing responsive web pages.                                            | [Tailwind CSS](https://tailwindcss.com/docs)                        | `npm install -D tailwindcss postcss autoprefixer`    |
+| react-toastify            | Toast notifications for React applications.                                                                | [react-toastify](https://www.npmjs.com/package/react-toastify) | `npm install react-toastify`                        |
+| uuid                      | Utility for generating unique IDs.                                                                         | [uuid](https://www.npmjs.com/package/uuid)                          | `npm install uuid`                                   |
+| axios                     | Promise-based HTTP client for making API requests.                                                         | [axios](https://axios-http.com/docs/intro)                          | `npm install axios`                                  |
+| **Backend**               |                                                                                                             |                                                                     |                                                      |
+| Express                   | Web framework for Node.js to build REST APIs.                                                              | [Express](https://expressjs.com/)                                   | `npm install express`                                |
+| MongoDB                   | NoSQL database for storing JSON-like documents with schema flexibility.                                    | [MongoDB](https://www.npmjs.com/package/mongodb/)                            | `npm install mongodb`                                |
+| dotenv                    | Loads environment variables from `.env` file into `process.env`.                                           | [dotenv](https://github.com/motdotla/dotenv#readme)                 | `npm install dotenv`                                 |
+| cors                      | Middleware to enable Cross-Origin Resource Sharing for Express applications.                               | [cors](https://expressjs.com/en/resources/middleware/cors.html)     | `npm install cors`                                   |
+| body-parser               | Middleware to parse incoming request bodies in a middleware before handling them.                          | [body-parser](https://www.npmjs.com/package/body-parser)            | `npm install body-parser`                            |
+| bcrypt                    | Library for hashing passwords, ensuring secure password storage.                                           | [bcrypt](https://www.npmjs.com/package/bcrypt)                      | `npm install bcrypt`                                 |
+| nodemon                   | Tool to automatically restart the server when code changes are detected.                                   | [nodemon](https://www.npmjs.com/package/nodemon)                    | `npm install -D nodemon`                             |
+| **Testing and Linting**   |                                                                                                             |                                                                     |                                                      |
+| jest                      | JavaScript testing framework for unit and integration tests.                                               | [Jest](https://jestjs.io/docs/getting-started)                      | `npm install --save-dev jest`                        |
+| eslint                    | Linter for identifying and fixing problematic patterns in JavaScript code.                                 | [ESLint](https://eslint.org/docs/user-guide/getting-started)        | `npm install eslint --save-dev`                      |
+| prettier                  | Code formatter to maintain consistent code style across the project.                                       | [Prettier](https://prettier.io/docs/en/index.html)                  | `npm install prettier --save-dev`                    |
+
+### Additional Setup Commands
+
+- **Initialize Project**: Run `npm init -y` in both frontend and backend directories to create `package.json` files.
+- **Run Development Server**:
+  - **Frontend**: `npm run dev` (for Vite projects)
+  - **Backend**: `node server.js` or, if using nodemon, `npx nodemon server.js`
+
+Using this table as a reference can help streamline project management and give you a solid overview of dependencies during an interview or project review.
