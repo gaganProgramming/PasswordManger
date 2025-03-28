@@ -2,6 +2,14 @@
 
 Welcome to **Passop**, a secure and efficient Password Manager built with the MERN (MongoDB, Express.js, React, Node.js) stack. This application provides a user-friendly interface for managing passwords, including storing, viewing, editing, and deleting your sensitive information safely.
 
+## Video Demo 📽️
+
+Watch the demo of Passop on YouTube:
+<a href="https://www.youtube.com/watch?v=9BVy_BAk7T0" target="_blank">
+    <img src="https://img.youtube.com/vi/9BVy_BAk7T0/0.jpg" width="800" height="400">
+</a>
+
+
 ## Features 🚀
 - **Add New Passwords**: Securely save passwords for various sites.
 - **View Passwords**: Access a list of saved passwords with an option to copy them to the clipboard.
@@ -59,13 +67,6 @@ Welcome to **Passop**, a secure and efficient Password Manager built with the ME
 3. **Delete Passwords**: Use the delete icon to remove an entry.
 4. **Copy to Clipboard**: Click on the copy icon to copy passwords.
 
-## Video Demo 📽️
-
-Watch the demo of Passop on YouTube:
-
-<a href="https://www.youtube.com/watch?v=9BVy_BAk7T0" target="_blank">
-    <img src="https://img.youtube.com/vi/9BVy_BAk7T0/0.jpg" width="800" height="400">
-</a>
 
 
 ## Contributions
