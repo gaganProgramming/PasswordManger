@@ -6,7 +6,7 @@ Welcome to **Passop**, a secure and efficient Password Manager built with the ME
 
 Watch the demo of Passop on YouTube:
 <a href="https://www.youtube.com/watch?v=9BVy_BAk7T0" target="_blank">
-    <img src="https://img.youtube.com/vi/9BVy_BAk7T0/0.jpg" width="700" height="400">
+    <img src="https://img.youtube.com/vi/9BVy_BAk7T0/0.jpg" width="800" height="300">
 </a>
 
 
