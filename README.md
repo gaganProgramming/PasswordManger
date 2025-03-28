@@ -1,4 +1,4 @@
-<img width="948" alt="passop" src="https://github.com/user-attachments/assets/40620bc1-b8a8-4766-84ac-45193fc82348" /># Passop - Password Manager App 🔒
+# Passop - Password Manager App 🔒
 
 Welcome to **Passop**, a secure and efficient Password Manager built with the MERN (MongoDB, Express.js, React, Node.js) stack. This application provides a user-friendly interface for managing passwords, including storing, viewing, editing, and deleting your sensitive information safely.
 
