@@ -61,8 +61,12 @@ Welcome to **Passop**, a secure and efficient Password Manager built with the ME
 
 ## Video Demo 📽️
 
-Watch the demo of Passop on YouTube: [Passop - Password Manager App](https://youtu.be/9BVy_BAk7T0)
-[![Passop - Password Manager Appo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/9BVy_BAk7T0)
+Watch the demo of Passop on YouTube:
+
+    <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/9BVy_BAk7T0" 
+        frameborder="0" allowfullscreen>
+    </iframe>
 
 
 ## Contributions
